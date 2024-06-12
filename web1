@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>miraçın sitesi</title>
+    <link rel="stylesheet" href="C:\Users\mirac\OneDrive\Masaüstü\web\style.css">
+</head>
+<body>
+    <h1>sohbet,oyun,site hepsi burda!</h1>
+    <p>istediğin sitelere gidebilirsin</p>
+    <p>istediğin şeyleri satın alabilirisn</p>
+    <p>arkadaşlarınla konuşabilirsin</p>
+    <p>istediğin resimler</p>
+    <h2>ihtiyaçların.......................burda</h2>
+             <ul>
+                   <li>güncelleme her gün devam eder</li>
+                   <li>sorunlarınızı yazabilirsiniz</li>
+                   <a href="https://www.youtube.com/"><button>Youtube</button></a>
+                    <a href="https://x.com/home"><button>twitter</button></a>
+                    <a href="https://web.whatsapp.com/"><button>WhatsappWeb</button></a>
+
+             </ul>
+
+
+
+
+             
+             <iframe src="https://www.meteoblue.com/tr/hava/widget/daily/ip_romanya_675514?geoloc=fixed&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&pressure=1&layout=dark"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 378px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/tr/hava/hafta/ip_romanya_675514?utm_source=daily_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>                  
+     
+     
+</body>
+</html>
